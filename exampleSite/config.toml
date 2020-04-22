@@ -75,14 +75,14 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
+address = "Nueva Providencia Colón"
 author = "Themefisher"
 contact_form_action = "#"
-description = "This is meta description"
-email = "info@educenter.com"
+description = "DISEÑO WEB - DISEÑO GRÁFICO - PUBLICIDAD DIGITAL - EVENTOS - SOCIAL MEDIA"
+email = "info@ggmcoumunicaciones.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+211234565523"
+mobile = "+ 50764017278"
 top_header = true
 [params.map]
 enable = true
@@ -113,7 +113,7 @@ link = "plugins/filterizr/jquery.filterizr.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/gmap.js"
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/preloader.gif"
 [params.subscription]
 enable = true
