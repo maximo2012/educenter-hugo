@@ -23,15 +23,15 @@ slider:
       enable: true
       label: Ver
       link: contact
-  - title: Your bright future is our mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud
-      exer
+  - title: Recomendaciones sobre el COVID-19
+    content: El equipo de GGM está en constante difusión de contenido relevante para
+      apoyar a sus clientes y demás actores sociales durante la crisis global relacionada
+      al COVID-19.
     animation_in: left
     animation_out: right
     button:
       enable: true
-      label: Apply now
+      label: Ver Recomendaciones
       link: contact
 banner_feature:
   enable: false
