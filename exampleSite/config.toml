@@ -77,7 +77,7 @@ weight = 5
 [params]
 address = "Nueva Providencia Colón"
 author = "Themefisher"
-contact_form_action = "#"
+contact_form_action = "https://formspree.io/mlewqwza"
 description = "DISEÑO WEB - DISEÑO GRÁFICO - PUBLICIDAD DIGITAL - EVENTOS - SOCIAL MEDIA"
 email = "info@ggmcoumunicaciones.com"
 google_analitycs_id = ""
