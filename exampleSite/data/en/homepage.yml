@@ -3,7 +3,7 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
-  - title: Trabajo remoto, la guía definitiva
+  - title: Teletrabajo, la guía definitiva
     content: El trabajo remoto siempre implica un reto que pone a prueba a los equipos,
       donde lo más importante es mantener la comunicación efectiva para los miembros
       del equipo.
