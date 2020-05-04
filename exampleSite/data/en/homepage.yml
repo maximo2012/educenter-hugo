@@ -12,6 +12,7 @@ slider:
     button:
       enable: true
       label: Ver Mas
+      link: scholarship
   - title: Teletrabajo, la guía definitiva
     content: El trabajo remoto siempre implica un reto que pone a prueba a los equipos,
       donde lo más importante es mantener la comunicación efectiva para los miembros
