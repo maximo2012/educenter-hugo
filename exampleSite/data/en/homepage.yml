@@ -81,9 +81,7 @@ course:
   title: Our Course
 cta:
   enable: true
-  subtitle: Lea más sobre lo que hacemos y nuestra filosofía de diseño. Juzgue por
-    usted mismo El trabajo y los resultados que hemos logrado para otros clientes,
-    y conozca a nuestro equipo altamente experimentado al que le encanta diseñar.
+  subtitle: Lea más sobre lo que hacemos y nuestra filosofía de diseño.
   title: Diseñamos grandiosas experiencias digitales.
   button:
     enable: true
