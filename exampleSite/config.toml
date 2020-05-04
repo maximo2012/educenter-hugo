@@ -82,7 +82,7 @@ parent = "About"
 weight = 1
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "Acerca"
 weight = 1
 [[menu.main]]
 URL = "course"
