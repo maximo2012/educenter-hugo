@@ -3,6 +3,15 @@ slider:
   enable: true
   bg_image: images/banner/banner-1.jpg
   slider_item:
+  - title: SOMOS UNA AGENCIA DE MARKETING Y DISEÑO DIGITAL
+    content: Amamos la Web y el trabajo que hacemos. Trabajamos en estrecha colaboración
+      con nuestros clientes para ofrecer las mejores soluciones posibles para sus
+      necesidades.
+    animation_in: left
+    animation_out: right
+    button:
+      enable: true
+      label: Ver Mas
   - title: Teletrabajo, la guía definitiva
     content: El trabajo remoto siempre implica un reto que pone a prueba a los equipos,
       donde lo más importante es mantener la comunicación efectiva para los miembros
