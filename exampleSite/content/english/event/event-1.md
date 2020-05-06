@@ -1,10 +1,10 @@
 ---
-title: Conectando tu negocio para seguir adelante
+title: "¡A reinventarse!: Sostenimiento y productividad de equipos comerciales en
+  tiempos de crisis"
 publishDate: '2019-01-01T00:00:00Z'
 date: 2020-05-14T12:00:17-05:00
 bg_image: "/images/BW_2_0.jpg"
-description: "¡A reinventarse!: Sostenimiento y productividad de equipos comerciales
-  en tiempos de crisis"
+description: Conectando tu negocio para seguir adelante
 image: "/images/CTW_Webinar.png"
 location: Online
 fee: Gratuito
@@ -18,7 +18,7 @@ speaker:
   designation: Teacher
 
 ---
-### **Conectando tu negocio para seguir adelante**
+### **La academia digital creada para capacitar a las pymes en Panamá**
 
 En Millicom Tigo a través de su marca **Cable Onda** **Empresarial** estamos convencidos que en esta situación de alarma mundial Panamá "está conformada por gente maravillosa que ayuda a los demás". Los empresarios de las PYMES panameñas son ejemplos reales de esta aseveración. Cientos de muestras de solidaridad, creatividad y de apoyo al prójimo llenan las redes sociales del país.
 
