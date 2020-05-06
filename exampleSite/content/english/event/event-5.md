@@ -5,7 +5,7 @@ date: 2020-05-08T15:00:17-05:00
 bg_image: "/images/azure.png"
 description: "¡Regístrate al primer encuentro de Azure Tech Communities Live!"
 image: "/images/azure.png"
-location: Dhanmondi, Dhaka
+location: Online
 fee: Gratuito
 apply_url: "#"
 speaker:
