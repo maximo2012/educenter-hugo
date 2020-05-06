@@ -2,7 +2,7 @@
 title: 11 modulares que servirán como Clínicas portátiles fueron entregadas a la Regional
   del @Minsa Provincia de Colón.
 date: 2020-05-05T04:27:17-05:00
-bg_image: images/backgrounds/page-title.jpg
+bg_image: "/images/minera2.jpg"
 description: Dicha donación, la realizó la Empresa @Firts Quantum. (Cobre Panamá).
 image: "/images/minera.jpg"
 author: Graciela Vasquez
