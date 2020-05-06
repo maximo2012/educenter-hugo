@@ -38,13 +38,13 @@
 - id: weekly
   translation: weekly
 - id: fee
-  translation: Costo
+  translation: fee
 - id: teacher
   translation: teacher
 - id: location
   translation: Lugar
 - id: entry_fee
-  translation: entry fee
+  translation: Costo
 - id: event_speaker
   translation: Event Speakers
 - id: more_event
