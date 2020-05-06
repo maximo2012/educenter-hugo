@@ -38,7 +38,7 @@
 - id: weekly
   translation: weekly
 - id: fee
-  translation: fee
+  translation: Costo
 - id: teacher
   translation: teacher
 - id: location
