@@ -26,9 +26,9 @@
 - id: posted_by
   translation: Posted by
 - id: date
-  translation: Date
+  translation: Fecha
 - id: time
-  translation: time
+  translation: Hora
 - id: category
   translation: Category
 - id: related_course
