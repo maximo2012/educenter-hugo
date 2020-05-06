@@ -16,7 +16,7 @@
 - id: latest_article
   translation: Latest Article
 - id: categories
-  translation: Categories
+  translation: Categorias
 - id: tags
   translation: Tags
 - id: see_all
