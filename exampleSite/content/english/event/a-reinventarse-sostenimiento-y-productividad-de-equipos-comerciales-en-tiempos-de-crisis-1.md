@@ -3,7 +3,6 @@ apply_url = "#"
 bg_image = "/images/BW_2_0.jpg"
 date = 2020-05-20T17:00:17Z
 description = "Conectando tu negocio para seguir adelante"
-draft = true
 fee = "Gratuito"
 image = "/images/CTW_Webinar.png"
 location = "Online"
