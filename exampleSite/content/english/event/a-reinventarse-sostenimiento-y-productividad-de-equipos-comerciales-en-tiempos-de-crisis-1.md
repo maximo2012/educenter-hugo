@@ -1,14 +1,14 @@
 +++
 apply_url = "#"
 bg_image = "/images/BW_2_0.jpg"
-date = 2020-05-14T17:00:17Z
+date = 2020-05-20T17:00:17Z
 description = "Conectando tu negocio para seguir adelante"
 draft = true
 fee = "Gratuito"
 image = "/images/CTW_Webinar.png"
 location = "Online"
 publishDate = "2019-01-01T00:00:00Z"
-title = "¡A reinventarse!: Sostenimiento y productividad de equipos comerciales en tiempos de crisis"
+title = "Seguridad en la nube"
 [[speaker]]
 designation = "Teacher"
 image = "images/event-speakers/speaker-1.jpg"
