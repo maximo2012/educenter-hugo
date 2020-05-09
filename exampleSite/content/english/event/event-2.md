@@ -1,5 +1,5 @@
 ---
-title: Social media and behavior economics conference
+title: Social media and behavior economics conference 3
 publishDate: '2019-01-01T00:00:00Z'
 date: 2030-03-09T15:27:17+06:00
 bg_image: images/backgrounds/page-title.jpg
