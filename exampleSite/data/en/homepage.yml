@@ -13,7 +13,7 @@ slider:
       enable: true
       label: Ver Mas
       link: scholarship
-  - title: Teletrabajo, la guía definitiva
+  - title: TELETRABAJO, LA GUIA DEFINITIVA
     content: El trabajo remoto siempre implica un reto que pone a prueba a los equipos,
       donde lo más importante es mantener la comunicación efectiva para los miembros
       del equipo.
@@ -86,7 +86,7 @@ course:
 cta:
   enable: true
   subtitle: Lea más sobre lo que hacemos y nuestra filosofía de diseño.
-  title: Diseñamos experiencias digitales unicas.
+  title: Creamos, Diseñamos e innovamos
   button:
     enable: true
     label: Contactenos
@@ -104,7 +104,7 @@ event:
   enable: true
   title: Eventos GGM
 funfacts:
-  enable: true
+  enable: false
   funfact_item:
   - name: TEACHERS
     count: "60"
