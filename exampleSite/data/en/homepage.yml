@@ -50,23 +50,23 @@ banner_feature:
   - name: Diseño Web
     icon: ti-book
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+      tempor incididunt ut labore  dolore magna aliqua.
   - name: Diseño Grafico
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+      tempor incididunt ut labore  dolore magna aliqua.
   - name: Publicidad Digital
     icon: ti-agenda
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+      tempor incididunt ut labore  dolore magna aliqua.
   - name: Eventos
     icon: ti-write
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+      tempor incididunt ut labore  dolore magna aliqua.
   - name: Social Media
     icon: ti-agenda
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+      tempor incididunt ut labore  dolore magna aliqua.
 about:
   enable: true
   title: Acerca de Nosotros
