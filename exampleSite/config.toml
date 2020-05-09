@@ -40,15 +40,30 @@ URL = "research"
 name = "research"
 weight = 1
 [[menu.main]]
-URL = "research"
-name = "research"
-parent = "Pages"
+URL = "notice"
+name = "Social Media"
+parent = "servicios"
 weight = 5
 [[menu.main]]
-URL = "scholarship"
-name = "scholarship"
-parent = "Pages"
+URL = "event"
+name = "Eventos"
+parent = "servicios"
 weight = 4
+[[menu.main]]
+URL = "teacher"
+name = "Publicidad Digital"
+parent = "servicios"
+weight = 3
+[[menu.main]]
+URL = "scholarship"
+name = "Diseño Grafico"
+parent = "servicios"
+weight = 2
+[[menu.main]]
+URL = "research"
+name = "Diseño Web"
+parent = "servicios"
+weight = 1
 [[menu.main]]
 name = "Codigo de Etica"
 parent = "Acerca"
@@ -58,24 +73,9 @@ name = "Nuestros Clientes"
 parent = "Acerca"
 weight = 3
 [[menu.main]]
-URL = "notice"
-name = "notice"
-parent = "Pages"
-weight = 3
-[[menu.main]]
-URL = "teacher"
-name = "teacher"
-parent = "Pages"
-weight = 2
-[[menu.main]]
 name = "Que te ofrecemos"
 parent = "Acerca"
 weight = 2
-[[menu.main]]
-URL = "event"
-name = "event"
-parent = "Pages"
-weight = 1
 [[menu.main]]
 name = "¿Quienes Somos?"
 parent = "Acerca"
@@ -86,19 +86,19 @@ name = "Acerca"
 weight = 1
 [[menu.main]]
 URL = "course"
-name = "course"
+name = "servicios"
 weight = 2
 [[menu.main]]
 hasChildren = true
-name = "Pages"
-weight = 3
-[[menu.main]]
-URL = "blog"
-name = "blog"
+name = "covid-19"
 weight = 4
 [[menu.main]]
+URL = "blog"
+name = "noticias"
+weight = 3
+[[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 5
 [params]
 address = "Nueva Providencia Colón"
