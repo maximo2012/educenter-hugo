@@ -40,45 +40,45 @@ URL = "research"
 name = "research"
 weight = 1
 [[menu.main]]
-URL = "notice"
-name = "Social Media"
-parent = "servicios"
-weight = 5
-[[menu.main]]
-URL = "event"
-name = "Eventos"
-parent = "servicios"
-weight = 4
-[[menu.main]]
-URL = "teacher"
-name = "Publicidad Digital"
-parent = "servicios"
-weight = 3
-[[menu.main]]
-URL = "scholarship"
-name = "Diseño Grafico"
-parent = "servicios"
-weight = 2
-[[menu.main]]
-URL = "research"
-name = "Diseño Web"
-parent = "servicios"
-weight = 1
-[[menu.main]]
 name = "Codigo de Etica"
-parent = "Acerca"
+parent = "About"
 weight = 4
 [[menu.main]]
 name = "Nuestros Clientes"
-parent = "Acerca"
+parent = "About"
 weight = 3
 [[menu.main]]
-name = "Que te ofrecemos"
-parent = "Acerca"
+URL = "research"
+name = "research"
+parent = "Pages"
+weight = 5
+[[menu.main]]
+URL = "scholarship"
+name = "scholarship"
+parent = "Pages"
+weight = 4
+[[menu.main]]
+URL = "notice"
+name = "notice"
+parent = "Pages"
+weight = 3
+[[menu.main]]
+URL = "teacher"
+name = "teacher"
+parent = "Pages"
 weight = 2
 [[menu.main]]
+name = "Que te ofrecemos"
+parent = "About"
+weight = 2
+[[menu.main]]
+URL = "event"
+name = "event"
+parent = "Pages"
+weight = 1
+[[menu.main]]
 name = "¿Quienes Somos?"
-parent = "Acerca"
+parent = "About"
 weight = 1
 [[menu.main]]
 URL = "about"
@@ -86,19 +86,19 @@ name = "Acerca"
 weight = 1
 [[menu.main]]
 URL = "course"
-name = "servicios"
+name = "course"
 weight = 2
 [[menu.main]]
 hasChildren = true
-name = "covid-19"
-weight = 4
-[[menu.main]]
-URL = "blog"
-name = "noticias"
+name = "Pages"
 weight = 3
 [[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 4
+[[menu.main]]
 URL = "contact"
-name = "Contacto"
+name = "Contact"
 weight = 5
 [params]
 address = "Nueva Providencia Colón"
@@ -142,7 +142,7 @@ link = "plugins/google-map/gmap.js"
 enable = false
 preloader = "images/preloader.gif"
 [params.subscription]
-enable = true
+enable = false
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[params.social]]
@@ -157,7 +157,3 @@ title = "twitter"
 icon = "ti-instagram"
 link = "#"
 title = "instagram"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
-title = "linkedin"
