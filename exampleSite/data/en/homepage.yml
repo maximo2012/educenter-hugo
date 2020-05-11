@@ -47,11 +47,7 @@ banner_feature:
   enable: true
   image: images/banner/banner-feature.png
   feature_item:
-  - name: Diseño Web
-    icon: ti-book
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore  dolore magna aliqua.
-  - name: Diseño Grafico
+  - name: Diseño Grafico & Web
     icon: ti-blackboard
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore  dolore magna aliqua.
