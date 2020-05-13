@@ -1,32 +1,51 @@
 ---
-title: "Elegant Light Box Paper Cut Dioramas"
-date: 2019-07-06T15:27:17+06:00
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# post thumbnail
-image: "images/blog/post-1.jpg"
-# post author
-author: "John Doe"
-# taxonomy
-categories: ["Deep Learning"]
-tags: ["AI", "Automation"]
-# type
-type: "post"
+title: Estas son las guías para el retorno a la normalidad de las empresas post COVID-19
+date: 2020-05-12T04:27:17-05:00
+bg_image: images/backgrounds/page-title.jpg
+description: La guía establece los parámetros que deben cumplirse y específica de
+  qué manera deben implementarse.
+image: "/images/guia_post_covid.JPG"
+author: Graciela Vasquez
+categories:
+- Deep Learning
+tags:
+- AI
+- Automation
+type: post
+
 ---
+### El **Gobierno Nacional** a través del **Ministerio de Salud** emitió las guías de estricto cumplimiento que deberán adoptar empresas y trabajadores para la nueva normalidad post coronavirus (COVID-19).
 
-### The standard Lorem Ipsum passage, used since the 1500s
+Estas medidas sanitarias deben ser implementadas por productores, distribuidores y consumidores; las microempresas, pequeñas, medianas y grandes empresas y sus clientes a fin de mitigar y contener la expansión del virus.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+A continuación las medidas:
 
+1\.- Organización de comité especial de salud e higiene para la prevención y atención del covid-19 en cada institución pública o privada, empresas y sector económico.
 
-#### 1914 translation by H. Rackham
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, **the master-builder** of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+2\.- Cumplimiento de los protocolos y guías sanitarios emitidos por la autoridad sanitaria .
 
-> On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue
+3\.-Medidas de prevención y control.
 
-#### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+a.-Higiene de manos frecuente: lavado de manos con agua y jabón y uso de gel alcoholado.
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+b.-Uso de mascarillas.
+
+c.-Distanciamiento físico: Por lo menos 2 mts entre personas en sitios públicos y laborales .
+
+d.- Equipo de protección personal según la actividad e.-Limpieza y desinfección de superficies frecuentemente.
+
+f.- Manejo de desechos .
+
+4\.- Establecer horarios especiales y restricción de número de personas, distanciamiento mínimo de 2 mts y modalidades como el teletrabajo.
+
+5\.- Control de síntomas de los colaboradores y clientes.
+
+6\.- Manejo el estrés laboral
+
+Estas guías además de ser dirigidas por el **Minsa** contó con el aporte de los ministerios de Trabajo y Desarrollo Laboral, Economía y Finanzas, Comercio e Industrias, y con la asesoría y colaboración de Salud y Seguridad Ocupacional de la Caja de Seguro Social.
+
+Este mismo equipo trabaja en la preparación del “**Plan para el Retorno a la Normalidad Socioeconómica y Sanitaria Post COVID-19**”.
+
+[Lee aquí el documento completo](http://www.minsa.gob.pa/sites/default/files/publicacion-general/lineamientos_para_el_retorno_a_la_normalidad_de_las_empresas_post-covid-19_en_panama_vc.pdf)
+
+El documento señala que nos preparamos para una etapa de la epidemia que resultará crucial en el éxito de la lucha para el control del contagio por COVID-19, de acuerdo con el Centro de Control y la Prevención de Enfermedades (CDC) “las empresas y empleadores pueden prevenir y desacelerar la propagación del COVID-19…” implementando protocolos de actuación, a partir de planes de salud, seguridad e higiene ocupacional y las guías de prevención y control del COVID-19.
