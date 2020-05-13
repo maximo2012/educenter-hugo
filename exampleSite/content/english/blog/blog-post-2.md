@@ -1,6 +1,6 @@
 ---
 title: Google Meet es ahora gratis y podrá ser usado desde cualquier cuenta de correo
-date: 2019-07-06T09:27:17.000+00:00
+date: 2020-05-04T04:27:17-05:00
 bg_image: images/backgrounds/page-title.jpg
 description: Google anuncia que Google Meet, su producto de videoconferencias premium,
   será gratuito para todos, y estará disponible de manera gradual a partir de mayo
