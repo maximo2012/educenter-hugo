@@ -1,6 +1,6 @@
 +++
 author = "Graciela Vasquez"
-bg_image = "images/backgrounds/page-title.jpg"
+bg_image = "/images/whatsapp-image-2020-05-27-at-11-27-29-am-1.jpeg"
 categories = ["Education System"]
 date = 2020-05-27T09:27:17Z
 description = "JUNTA COMUNAL DE ESCOBAL APOYA LA ESTRELLA DE LA EDUCACION."
@@ -21,3 +21,5 @@ Por ello, ha realizado la donación de equipo tecnológico (laptop) para jóvene
 H.R. HUGO CASTRO
 
 JUNTA COMUNAL DE ESCOBAL
+
+![](/images/whatsapp-image-2020-05-27-at-11-27-29-am-1.jpeg)
