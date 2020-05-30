@@ -4,7 +4,6 @@ bg_image = "/images/whatsapp-image-2020-05-27-at-11-27-59-am.jpeg"
 categories = ["Education System"]
 date = 2020-05-27T09:27:17Z
 description = "JUNTA COMUNAL DE ESCOBAL APOYA LA ESTRELLA DE LA EDUCACION."
-draft = true
 image = "/images/whatsapp-image-2020-05-27-at-11-27-29-am-1.jpeg"
 tags = ["Education", "Automation"]
 title = "JUNTA COMUNAL DE ESCOBAL APOYA LA ESTRELLA DE LA EDUCACION."
