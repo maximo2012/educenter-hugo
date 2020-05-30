@@ -6,7 +6,7 @@ date = 2020-05-27T09:27:17Z
 description = "JUNTA COMUNAL DE ESCOBAL APOYA LA ESTRELLA DE LA EDUCACION."
 image = "/images/whatsapp-image-2020-05-27-at-11-27-29-am-1.jpeg"
 tags = ["Education", "Automation"]
-title = "JUNTA COMUNAL DE ESCOBAL APOYA LA ESTRELLA DE LA EDUCACION."
+title = "JUNTA COMUNAL DE LA ENCANTADA CHAGRES-COLON BENEFICIA A PRODUCTORES."
 type = "post"
 
 +++
