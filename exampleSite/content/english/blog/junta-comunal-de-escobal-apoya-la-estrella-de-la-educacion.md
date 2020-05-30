@@ -17,6 +17,6 @@ En medio de la pandemia en que se sumerge el Mundo y donde Panamá no escapa, ah
 
 Castañeda, consciente de la situación que se vive, inició este plan piloto con miras a llevarlo a las diferentes comunidades de su extenso corregimiento, donde esta vez, inició en Los Cedros y posteriormente a la Encantadita y otros poblados.
 
-Estos trabajos se realizan con un tractor, y la mano de obra de moradores y colaboradores de la Junta Comunal es esencial para obtener los beneficios 
+Estos trabajos se realizan con un tractor, y la mano de obra de moradores y colaboradores de la Junta Comunal es esencial para obtener los beneficios dijo el edil.
 
-dijo el edil.![](/images/whatsapp-image-2020-05-27-at-11-27-59-am.jpeg)
+![](/images/whatsapp-image-2020-05-27-at-11-27-59-am.jpeg)
