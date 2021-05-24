@@ -20,10 +20,6 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "teacher"
-name = "teacher"
-weight = 5
-[[menu.footer]]
 URL = "notice"
 name = "notice"
 weight = 4
@@ -39,14 +35,6 @@ weight = 2
 URL = "research"
 name = "research"
 weight = 1
-[[menu.main]]
-name = "Codigo de Etica"
-parent = "About"
-weight = 4
-[[menu.main]]
-name = "Nuestros Clientes"
-parent = "About"
-weight = 3
 [[menu.main]]
 URL = "research"
 name = "research"
@@ -68,38 +56,46 @@ name = "teacher"
 parent = "Pages"
 weight = 2
 [[menu.main]]
-name = "Que te ofrecemos"
-parent = "About"
-weight = 2
-[[menu.main]]
 URL = "event"
 name = "event"
 parent = "Pages"
 weight = 1
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 9
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 7
+[[menu.main]]
+hasChildren = true
+name = "Pages"
+weight = 5
+[[menu.main]]
+URL = "course"
+name = "course"
+weight = 3
 [[menu.main]]
 name = "¿Quienes Somos?"
 parent = "About"
 weight = 1
 [[menu.main]]
-URL = "about"
-name = "Acerca"
-weight = 1
-[[menu.main]]
-URL = "course"
-name = "course"
-weight = 2
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 3
-[[menu.main]]
-URL = "blog"
-name = "blog"
+name = "Que te ofrecemos"
+parent = "About"
 weight = 4
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
+name = "Nuestros Clientes"
+parent = "About"
+weight = 6
+[[menu.main]]
+name = "Codigo de Etica"
+parent = "About"
+weight = 8
+[[menu.main]]
+URL = "about"
+name = "Acerca"
+weight = 2
 [params]
 address = "Nueva Providencia Colón"
 author = "Themefisher"
