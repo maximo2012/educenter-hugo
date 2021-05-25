@@ -40,6 +40,10 @@ URL = "research"
 name = "research"
 weight = 1
 [[menu.main]]
+name = "¿Quienes Somos?"
+parent = "Acerca"
+weight = 1
+[[menu.main]]
 URL = "about"
 name = "Acerca"
 weight = 1
@@ -79,10 +83,6 @@ weight = 2
 URL = "event"
 name = "event"
 parent = "Pages"
-weight = 1
-[[menu.main]]
-name = "¿Quienes Somos?"
-parent = "Acerca"
 weight = 1
 [[menu.main]]
 URL = "course"
