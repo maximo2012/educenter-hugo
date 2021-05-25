@@ -98,7 +98,7 @@ name = "blog"
 weight = 4
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 5
 [params]
 address = "Nueva Providencia Colón"
