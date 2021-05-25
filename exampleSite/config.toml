@@ -69,7 +69,7 @@ parent = "Pages"
 weight = 2
 [[menu.main]]
 name = "Que te ofrecemos"
-parent = "About"
+parent = "Acerca"
 weight = 2
 [[menu.main]]
 URL = "event"
