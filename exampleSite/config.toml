@@ -41,7 +41,7 @@ name = "research"
 weight = 1
 [[menu.main]]
 name = "Codigo de Etica"
-parent = "About"
+parent = "Acerca"
 weight = 4
 [[menu.main]]
 name = "Nuestros Clientes"
