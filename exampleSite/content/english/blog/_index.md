@@ -1,8 +1,6 @@
 ---
-title: "Latest News"
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "this is meta description"
+title: Ultimas Noticias
+bg_image: images/backgrounds/page-title.jpg
+description: Últimas Noticias de Provincia de Colon y el Pais.
+
 ---
