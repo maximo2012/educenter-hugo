@@ -45,7 +45,7 @@ parent = "About"
 weight = 4
 [[menu.main]]
 name = "Nuestros Clientes"
-parent = "About"
+parent = "Acerca"
 weight = 3
 [[menu.main]]
 URL = "research"
