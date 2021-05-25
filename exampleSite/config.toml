@@ -40,10 +40,6 @@ URL = "research"
 name = "research"
 weight = 1
 [[menu.main]]
-name = "¿Quienes Somos?"
-parent = "Acerca"
-weight = "1"
-[[menu.main]]
 URL = "about"
 name = "Acerca"
 weight = 1
