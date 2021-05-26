@@ -4,10 +4,10 @@ bg_image = "/images/BW_2_0.jpg"
 date = 2020-05-20T17:00:17Z
 description = "Conectando tu negocio para seguir adelante"
 fee = "Gratuito"
-image = "/images/CTW_Webinar.png"
+image = "/images/image_2021-05-26_000641.png"
 location = "Online"
 publishDate = "2019-01-01T00:00:00Z"
-title = "Seguridad en la nube-(copy)"
+title = "Inauguracion de la Granja Solar en piso."
 [[speaker]]
 designation = "Teacher"
 image = "images/event-speakers/speaker-1.jpg"
