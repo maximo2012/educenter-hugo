@@ -1,7 +1,7 @@
 ---
 slider:
   enable: true
-  bg_image: images/banner/banner-1.jpg
+  bg_image: "/images/colon.jpg"
   slider_item:
   - title: SOMOS UNA AGENCIA DE MARKETING Y DISEÑO DIGITAL
     content: Amamos la Web y el trabajo que hacemos. Trabajamos en estrecha colaboración
