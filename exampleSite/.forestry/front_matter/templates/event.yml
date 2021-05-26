@@ -47,5 +47,3 @@ fields:
   name: type
   label: type
   default: event
-pages:
-- exampleSite/content/english/event/inauguracion-de-la-granja-solar-en-piso.md
