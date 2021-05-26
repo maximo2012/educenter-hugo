@@ -8,6 +8,7 @@ image = "/images/image_2021-05-26_000641.png"
 location = "Presencial"
 speaker = []
 title = "Inauguracion de la Granja Solar en piso."
+type = ""
 
 +++
 ### **La academia digital creada para capacitar a las pymes en Panamá**
