@@ -5,7 +5,7 @@ date = 2020-07-02T14:30:17Z
 description = "Conectando tu negocio para seguir adelante"
 fee = "Gratuito"
 image = "/images/image_2021-05-26_000641.png"
-location = "Online"
+location = "Cerveceria Nacional, Colon"
 publishDate = "2019-01-01T00:00:00Z"
 title = "Inauguracion de la Granja Solar en piso."
 [[speaker]]
