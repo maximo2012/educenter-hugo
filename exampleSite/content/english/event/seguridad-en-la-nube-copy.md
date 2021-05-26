@@ -1,7 +1,7 @@
 +++
 apply_url = "#"
 bg_image = "/images/BW_2_0.jpg"
-date = 2020-05-20T17:00:17Z
+date = 2020-07-02T14:30:17Z
 description = "Conectando tu negocio para seguir adelante"
 fee = "Gratuito"
 image = "/images/image_2021-05-26_000641.png"
@@ -12,10 +12,6 @@ title = "Inauguracion de la Granja Solar en piso."
 designation = "Teacher"
 image = "images/event-speakers/speaker-1.jpg"
 name = "Jack Mastio"
-[[speaker]]
-designation = "Teacher"
-image = "images/event-speakers/speaker-4.jpg"
-name = "Alfred Jin"
 
 +++
 ### **La academia digital creada para capacitar a las pymes en Panamá**
