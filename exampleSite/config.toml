@@ -20,6 +20,10 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
+URL = "teacher"
+name = "teacher"
+weight = 5
+[[menu.footer]]
 URL = "notice"
 name = "notice"
 weight = 4
@@ -36,25 +40,54 @@ URL = "research"
 name = "research"
 weight = 1
 [[menu.main]]
-name = "Nuestros Clientes"
-parent = "Acerca"
-weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
-[[menu.main]]
-URL = "blog"
 name = "eventos"
-weight = 2
-[[menu.main]]
-URL = "course"
-name = "noticias"
-weight = 1
+parent = ""
+weight = ""
 [[menu.main]]
 URL = "about"
 name = "Acerca"
+weight = 1
+[[menu.main]]
+name = "Nuestros Clientes"
+parent = "Acerca"
 weight = 3
+[[menu.main]]
+URL = "research"
+name = "research"
+parent = "Pages"
+weight = 5
+[[menu.main]]
+URL = "scholarship"
+name = "scholarship"
+parent = "Pages"
+weight = 4
+[[menu.main]]
+URL = "notice"
+name = "notice"
+parent = "Pages"
+weight = 3
+[[menu.main]]
+URL = "teacher"
+name = "teacher"
+parent = "Pages"
+weight = 2
+[[menu.main]]
+URL = "event"
+name = "event"
+parent = "Pages"
+weight = 1
+[[menu.main]]
+URL = "course"
+name = "course"
+weight = 2
+[[menu.main]]
+URL = "blog"
+name = "noticias"
+weight = 4
+[[menu.main]]
+URL = "contact"
+name = "Contacto"
+weight = 5
 [params]
 address = "Nueva Providencia Colón"
 author = "Themefisher"
@@ -62,7 +95,7 @@ contact_form_action = "https://formspree.io/mlewqwza"
 description = "DISEÑO WEB - DISEÑO GRÁFICO - PUBLICIDAD DIGITAL - EVENTOS - SOCIAL MEDIA"
 email = "info@ggmcoumunicaciones.com"
 google_analitycs_id = ""
-logo = "images/logo.png"
+logo = "images/logo2.jpeg"
 mobile = "+ 50762053877"
 top_header = false
 [params.map]
