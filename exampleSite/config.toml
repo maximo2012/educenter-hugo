@@ -95,7 +95,7 @@ contact_form_action = "https://formspree.io/mlewqwza"
 description = "DISEÑO WEB - DISEÑO GRÁFICO - PUBLICIDAD DIGITAL - EVENTOS - SOCIAL MEDIA"
 email = "info@ggmcoumunicaciones.com"
 google_analitycs_id = ""
-logo = "images/logo2.jpeg"
+logo = "images/logo.png"
 mobile = "+ 50762053877"
 top_header = false
 [params.map]
