@@ -45,16 +45,16 @@ name = "Contact"
 weight = 4
 [[menu.main]]
 URL = "blog"
-name = "blog"
-weight = 3
+name = "eventos"
+weight = 2
 [[menu.main]]
 URL = "course"
-name = "course"
-weight = 2
+name = "noticias"
+weight = 1
 [[menu.main]]
 URL = "about"
 name = "Acerca"
-weight = 1
+weight = 3
 [params]
 address = "Nueva Providencia Colón"
 author = "Themefisher"
