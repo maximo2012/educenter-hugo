@@ -36,53 +36,16 @@ URL = "research"
 name = "research"
 weight = 1
 [[menu.main]]
-name = "Que te ofrecemos"
-parent = "Acerca"
-weight = 2
-[[menu.main]]
 name = "Nuestros Clientes"
 parent = "Acerca"
-weight = 3
-[[menu.main]]
-name = "Codigo de Etica"
-parent = "Acerca"
-weight = 4
-[[menu.main]]
-URL = "research"
-name = "research"
-parent = "Pages"
-weight = 5
-[[menu.main]]
-URL = "scholarship"
-name = "scholarship"
-parent = "Pages"
-weight = 4
-[[menu.main]]
-URL = "notice"
-name = "notice"
-parent = "Pages"
-weight = 3
-[[menu.main]]
-URL = "teacher"
-name = "teacher"
-parent = "Pages"
 weight = 2
-[[menu.main]]
-URL = "event"
-name = "event"
-parent = "Pages"
-weight = 1
 [[menu.main]]
 URL = "contact"
 name = "Contact"
-weight = 5
+weight = 4
 [[menu.main]]
 URL = "blog"
 name = "blog"
-weight = 4
-[[menu.main]]
-hasChildren = true
-name = "Pages"
 weight = 3
 [[menu.main]]
 URL = "course"
