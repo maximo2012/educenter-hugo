@@ -48,10 +48,6 @@ URL = "about"
 name = "Acerca"
 weight = 1
 [[menu.main]]
-name = "Codigo de Etica"
-parent = "Acerca"
-weight = 4
-[[menu.main]]
 name = "Nuestros Clientes"
 parent = "Acerca"
 weight = 3
@@ -76,10 +72,6 @@ name = "teacher"
 parent = "Pages"
 weight = 2
 [[menu.main]]
-name = "Que te ofrecemos"
-parent = "Acerca"
-weight = 2
-[[menu.main]]
 URL = "event"
 name = "event"
 parent = "Pages"
@@ -88,10 +80,6 @@ weight = 1
 URL = "course"
 name = "course"
 weight = 2
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 3
 [[menu.main]]
 URL = "blog"
 name = "noticias"
