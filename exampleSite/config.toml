@@ -56,7 +56,7 @@ name = "Nuestros Clientes"
 parent = "Acerca"
 weight = "2"
 [[menu.main]]
-name = "Quienes Somos"
+name = "¿Quienes Somos?"
 parent = "Acerca"
 weight = "1"
 [[menu.main]]
